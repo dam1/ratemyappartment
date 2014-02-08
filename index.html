@@ -1,0 +1,73 @@
+    <!doctype html>
+    <html lang="en" ng-app="myApp">
+    <head>
+        <meta charset="utf-8">
+        <title>Barpass Admin</title>
+        <link rel="stylesheet" href="css/app.css"/>
+        <link rel="stylesheet" href="/css/vader/jquery-ui-1.10.2.custom.css"/>
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/flick/jquery-ui.css"/>
+
+        <link href="lib/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+
+        <script src="js/log.js"></script>
+    </head>
+    <body>
+
+    <div>
+
+        <header ng-controller="MenuCtrl">
+            <a href="#" rel="home"><img id="logo" src="images/barpass-full-logo.jpg">
+            </a>
+
+            <a ng-click="doTheBack()">back</a>
+            <ul class="menu" >
+                <li ng-repeat="link in menu"><a href="{{link.url}}"> {{link.name}}</a></li>
+            </ul>
+        </header>
+
+        <div id="content" ng-view>
+        </div>
+
+        <!--  Angular-->
+        <script src="lib/angular/angular.js"></script>
+        <script src="lib/angular/angular-route.js"></script>
+
+
+        <!--Bootstrap-->
+        <script src="lib/bootstrap/ui-bootstrap-tpls-0.3.0.js"></script>
+
+
+        <!--Kinvey-->
+        <script src="//da189i1jfloii.cloudfront.net/js/kinvey-angular-1.1.4.min.js"></script>
+
+        <script src="js/app.js"></script>
+
+        <script src="js/kinvey/login.js"></script>
+
+        <!--        <script src="js/services.js"></script>-->
+
+        <!-- CONTROLLER-->
+        <script src="js/controllers.js"></script>
+        <script src="js/modules/menu/menu.js"></script>
+
+<!--        attendees-->
+        <script src="js/modules/event/list/list.js"></script>
+        <script src="js/modules/event/create/create.js"></script>
+
+
+ <!--        <!-- user-->
+<!--        <script src="js/controller/user/login.js"></script>-->
+<!--        <script src="js/controller/user/logout.js"></script>-->
+<!--        <!-- patient -->
+<!--        <script src="js/controller/patient/create.js"></script>-->
+<!--        <script src="js/controller/patient/detail.js"></script>-->
+<!--        <script src="js/controller/patient/list.js"></script>-->
+<!--        <script src="js/controller/patient/update.js"></script>-->
+
+<!--        <script src="js/filters.js"></script>-->
+<!--        <script src="js/directives.js"></script>-->
+
+
+    </div>
+    </body>
+    </html>

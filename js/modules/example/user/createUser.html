@@ -1,0 +1,26 @@
+<div  id="create" >
+<!--<div  id="create">-->
+
+    <form id="tab" ng-submit="createUser()">
+        <label>Username</label>
+        <input type="text" value="" ng-model="username" class="input-xlarge">
+        <label>First Name</label>
+        <input type="text" value="" ng-model="first_name" class="input-xlarge">
+        <label>Last Name</label>
+        <input type="text" value="" ng-model="last_name" class="input-xlarge">
+        <label>Email</label>
+        <input type="text" value="" ng-model="mail" class="input-xlarge">
+        <label>Password</label>
+        <input type="text" value="" ng-model="password" class="input-xlarge">
+        <label>Type</label>
+
+
+
+       <select ng-model="role">
+           <option  ng-repeat="v in roles" value="{{v.ID_role}}" title="{{v.ID_role}}">
+               {{v.role_name}}</option>
+       </select>
+<br />
+<button ng-click="submit()" class="btn btn-primary" >Create User</button>
+    </form>
+</div>

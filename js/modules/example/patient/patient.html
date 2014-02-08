@@ -1,0 +1,51 @@
+<div id="patient-detail">
+    <table class="table table-striped">
+
+        <th class="name">Name</th>
+        <th class="name">Gender</th>
+        <th class="name">MNR</th>
+        <th>Date Admission</th>
+        <th>Date Discharge</th>
+        <th>Last Updated</th>
+
+
+
+        <tr >
+            <td class="name">{{patient.first_name}} {{patient.last_name}}</td>
+            <td class="name">{{patient.gender}}</td>
+            <td class="name">{{patient.mnr}}</td>
+            <td class="name">{{patient.date_admission}}</td>
+            <td class="name">{{patient.date_discharge}}</td>
+            <td class="name"> {{last_updated}}</td>
+        </tr>
+    </table>
+    <button class="btn btn-small" ng-click="edit()">Edit</button>
+    <br />
+    <br />
+    <br />
+    <table style="width:100%" class="table table-striped">
+
+
+        <th style="width:10%" >Category</th>
+        <th style="width:40%" >Question</th>
+        <th style="width:40%" >Response</th>
+        <th style="width:10%" >Date</th>
+
+
+
+        <tr ng-repeat="event in events" >
+            <td class="name">{{event.name_category}} </td>
+            <td class="name">{{event.question}}</td>
+            <td class="name">{{event.response}}</td>
+            <td class="name">{{event.date}}</td>
+
+        </tr>
+    </table>
+
+
+    <div id="arrow">
+    </div>
+    <div
+            id="progress-tracker" class="hide">    Progress Tracker : {{numberOfDays}} / 30
+    </div>
+</div>

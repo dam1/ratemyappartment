@@ -1,0 +1,13 @@
+
+    <div class="row">
+        <div class="small-12 medium-6 columns">
+            <div id="event" ng-repeat="event in events">
+                <button id="eventName" ng-bind="event.sponsor1" ng-click="getEventList($index)"/>
+            </div>
+        </div>
+        <div class="small-12 medium-6 columns">
+            <div id="eventList" ng-repeat="attendee in list">
+                <p id="name">{{attendee.name}} + {{attendee.nb_of_friends}}</p>
+            </div>
+        </div>
+    </div>
