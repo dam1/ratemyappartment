@@ -2,205 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63a2929d-32d7-43c8-ae0d-a9b077951ab6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/artgallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/bank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/bread.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/cinema.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/cluster1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/grocery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/homeicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/hospital-building.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/liquor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logoheader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logoheader_ratemyapt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/novecento-bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/novecento-bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/novecento-bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/parkinggarage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/plane.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/restaurant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchbutton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/supermarket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/images/underscore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/detail/172759484.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/detail/174022031.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/Gruntfile.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/utils/LatLngArraySync.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/utils/MapEvents.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/dist/angular-google-maps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/dist/angular-google-maps.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/arrays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/async-processor.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/utils/async-processor.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/oo/base-object.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/oo/base-object.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/chaining.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/child-events.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/managers/clusterer-marker-manager.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/collections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/damien.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/debug-controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/debug.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/docco.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/example-controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/example.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/gmap-util.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/helpers/google-map-spec-controller.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/i-label.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/i-marker-parent-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/i-marker.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/i-window-parent-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/i-window.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/templates/info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/templates/infoController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/jslitmus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/child/label-child-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/label.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/label.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/layer-parent-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/layer.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/layer.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/linked.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/logger.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/map.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/map.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/child/marker-child-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/models/child/marker-child-model.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/managers/marker-manager.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/marker-parent-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/models/parent/marker-parent-model.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/marker.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/marker.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/marker.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/lib/markerclusterer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/markers-parent-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/markers.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/markers.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/lib/markerwithlabel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/mock-heat-layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/models-watcher.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/module.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/ng-gmap-module.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/ng-gmap-module.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/stylesheets/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/objects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/padmapper  scraper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/polygon.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/controllers/polyline-display.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/polyline.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/rating/rating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/rating/rating.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/search/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/search/search.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/speed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/extensions/underscore.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/underscore.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/usage/underscore.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/utility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/child/window-child-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/models/child/window-child-model.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/window.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/window.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/window.spec.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/windows-parent-model.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/windows.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/windows.coffee" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/barpass-full-logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/create/create.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/edit/edit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/edit/edit.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/list/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/list/list.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/edit/edit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/edit/edit.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/list/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/list/list.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/create/create.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/create/create.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/edit/edit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/edit/edit.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/list/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/list/list.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/create/create.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/create/create.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/edit/edit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/edit/edit.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/list/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/list/list.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/create-patient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/create.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/detail.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/edit-patient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/list-patient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/list.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/patient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/createUser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/createuser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/list-user.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/listuser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/logout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/read.me" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/create/create.tpl.html" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/js/.keep" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modules/menu/menu.js" afterPath="$PROJECT_DIR$/js/modules/menu/menu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ratemyappartment.iws" />
@@ -236,7 +37,7 @@
       <file leaf-file-name="log.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/log.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.21208227" vertical-offset="0" max-vertical-offset="778">
+            <state line="11" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
@@ -415,10 +216,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26923078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26923078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -625,7 +426,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/log.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.21208227" vertical-offset="0" max-vertical-offset="778">
+        <state line="11" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.29411766" vertical-offset="0" max-vertical-offset="561">
           <folding />
         </state>
       </provider>
