@@ -71,3 +71,145 @@ header .menu{
     /*content: "";*/
     /*padding: 0;*/
 }
+
+
+.angular-google-map-container { height: 600px;
+}
+
+
+body{
+  background: url("../images/background.png") no-repeat center center fixed;
+  -webkit-background-size: cover; /* For WebKit*/
+  -moz-background-size: cover;    /* Mozilla*/
+  -o-background-size: cover;      /* Opera*/
+  background-size: cover;         /* Generic*/
+}
+
+
+.form-horizontal{
+  background-color: rgba(200, 200, 200, 0.4);
+  padding: 40px 40px 40px 40px;
+}
+
+
+.gm-style-iw{
+  min-width: 150px;
+}
+
+#search .img-search{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  top:-330px;
+
+}
+
+#search .inputsearch{
+text-align: center;
+top:-330px;
+  position: relative;
+  height: 30px;
+  width: 580px;
+  /*left: -23px;*/
+}
+
+#search {
+text-align: center;
+}
+
+#search .searchbutton{
+  top: -200px;
+  position: relative;
+  /*left: -23px;*/
+}
+
+.google-map{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.rating {
+  overflow: hidden;
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+.rating-input {
+  position: absolute;
+  left: 0;
+  top: -50px;
+}
+.rating-star {
+  display: block;
+  float: right;
+  width: 16px;
+  height: 16px;
+  background: url('http://kubyshkin.ru/samples/star-rating/star.png') 0 -16px;
+}
+.rating-star:hover,
+.rating-star:hover ~ .rating-star,
+.rating-input:checked ~ .rating-star {
+  background-position: 0 0;
+}
+
+
+#google-map{
+  width: 40%;
+  float: left;
+}
+
+/* width listview */
+
+#listview{
+  width: 60%;
+  float: left;
+  margin-left: 40%;
+  padding-left: 60px;
+}
+
+#listview .appartment{
+  position: relative;
+  display: block;
+  width: 70%;
+  overflow: hidden;
+  height: 97px;
+  background-color: rgba(200, 200, 200, 0.7);
+  padding: 20px 20px 20px 20px;
+  -webkit-border-top-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-left-radius: 10px;
+margin-bottom: 25px;
+
+}
+
+#listview .appartment .description{
+float: left;
+  position: relative;
+  width: 70%;
+  padding-right: 20px;
+
+}
+
+#listview .appartment .img{
+float: left;
+  position: relative;
+  margin-left: 70%;
+  width: 30%;
+  top: -166px;
+}
+
+
+#detail{
+  float: left;
+  width: 40%;
+  margin-left: 90%;
+  padding: 20px 20px 20px 20px;
+  background-color: rgba(200, 200, 200, 0.7);
+
+  -webkit-transition:all 2s ease-in-out;
+  -webkit-perspective: 800px;
+  -webkit-perspective-origin: 50% 100px;
+}

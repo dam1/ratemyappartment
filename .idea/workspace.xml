@@ -1,7 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63a2929d-32d7-43c8-ae0d-a9b077951ab6" name="Default" comment="" />
+    <list default="true" id="63a2929d-32d7-43c8-ae0d-a9b077951ab6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/aller-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/artgallery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/bread.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/cinema.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/cluster1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/grocery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/homeicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/hospital-building.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/liquor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logoheader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logoheader_ratemyapt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/novecento-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/novecento-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/fonts/novecento-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/parkinggarage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/plane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/rating.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/restaurant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/searchbutton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/marker/supermarket.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/images/underscore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/detail/172759484.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/detail/174022031.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/Gruntfile.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/utils/LatLngArraySync.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/utils/MapEvents.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/dist/angular-google-maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/dist/angular-google-maps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/async-processor.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/utils/async-processor.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/oo/base-object.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/oo/base-object.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/chaining.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/child-events.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/managers/clusterer-marker-manager.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/collections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/damien.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/debug-controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/example-controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/gmap-util.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/helpers/google-map-spec-controller.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/i-label.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/i-marker-parent-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/i-marker.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/i-window-parent-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/i-window.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/templates/info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/templates/infoController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/jslitmus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/child/label-child-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/label.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/label.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/layer-parent-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/layer.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/layer.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/linked.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/logger.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/map.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/map.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/child/marker-child-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/models/child/marker-child-model.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/managers/marker-manager.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/marker-parent-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/models/parent/marker-parent-model.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/marker.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/marker.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/index/marker.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/lib/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/markers-parent-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/markers.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/markers.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/lib/markerwithlabel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/example/mock-heat-layer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/utils/models-watcher.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/module.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/ng-gmap-module.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/ng-gmap-module.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/public/stylesheets/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/objects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/padmapper  scraper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/polygon.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/controllers/polyline-display.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/polyline.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/rating/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/rating/rating.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/vendor/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules/map/search/search.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/extensions/underscore.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/docs/underscore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/usage/underscore.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/underscore/test/utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/child/window-child-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/models/child/window-child-model.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/window.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/window.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/coffee/directives/api/window.spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/models/parent/windows-parent-model.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/windows.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/src/coffee/directives/api/windows.coffee" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/barpass-full-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/create/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/edit/edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/edit/edit.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/list/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/list/list.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/edit/edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/edit/edit.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/list/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/attendee/list/list.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/create/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/create/create.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/edit/edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/edit/edit.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/list/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/bar/list/list.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/create/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/create/create.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/edit/edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/edit/edit.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/list/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/event/list/list.tpl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/create-patient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/create.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/detail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/edit-patient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/list-patient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/patient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/patient/update.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/createUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/createuser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/list-user.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/listuser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/login.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/modules/example/user/logout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/path.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/read.me" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/modules/_backup_model/create/create.tpl.html" afterPath="$PROJECT_DIR$/bower_components/angular-google-maps/spec/js/.keep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/app.css" afterPath="$PROJECT_DIR$/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/modules/menu/menu.js" afterPath="$PROJECT_DIR$/js/modules/menu/menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ratemyappartment.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,12 +222,69 @@
   <component name="FavoritesManager">
     <favorites_list name="ratemyappartment" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="directives.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/directives.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/log.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.21208227" vertical-offset="0" max-vertical-offset="778">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/modules/map/index/detail.json" />
+        <option value="$PROJECT_DIR$/js/modules/map/index/detail/172759484.xml" />
+        <option value="$PROJECT_DIR$/js/modules/map/index/detail/174022031.xml" />
+        <option value="$PROJECT_DIR$/js/modules/map/index/marker.json" />
+        <option value="$PROJECT_DIR$/path.php" />
+        <option value="$PROJECT_DIR$/js/modules/menu/menu.js" />
+        <option value="$PROJECT_DIR$/js/modules/rating/rating.js" />
+        <option value="$PROJECT_DIR$/js/modules/map/search/search.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/admin/database100.json" />
+        <option value="$PROJECT_DIR$/js/modules/map/search/search.tpl.html" />
+        <option value="$PROJECT_DIR$/js/modules/rating/rating.tpl.html" />
+        <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/js/modules/map/index/map.tpl.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/modules/map/index/map.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/admin/scrap kijiji.js" />
+        <option value="$PROJECT_DIR$/admin/kijiji/index.html" />
+        <option value="$PROJECT_DIR$/admin/kijiji/detail.js" />
+        <option value="$PROJECT_DIR$/scap id.js" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -52,7 +310,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -71,18 +328,83 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ratemyappartment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ratemyappartment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/images/marker" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/admin/kijiji" />
+      <recent name="$PROJECT_DIR$/admin/locations" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="15df2143-cd76-4207-992e-58ab3cdf3586" server_name="swmontreal">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="63a2929d-32d7-43c8-ae0d-a9b077951ab6" name="Default" comment="" />
@@ -93,23 +415,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287841" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26923078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2074392" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17381974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287841" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -131,6 +454,182 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="17" selection-start="2010" selection-end="2010" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="4470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="54" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1290" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/search/search.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/rating/rating.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="57" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="2085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="22" selection-start="4084" selection-end="4084" vertical-scroll-proportion="0.0" vertical-offset="1360" max-vertical-offset="2970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/menu/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="53" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="161" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/search/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/marker.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="63" selection-start="56" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/rating/rating.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="46" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="10" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.0" vertical-offset="1287" max-vertical-offset="2415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="47" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="19" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="1215" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="4" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/marker.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2096" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/menu/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="1" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/detail/174022031.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="21" selection-start="8824" selection-end="8824" vertical-scroll-proportion="0.0" vertical-offset="1709" max-vertical-offset="2235" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/detail/172759484.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="29" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/search/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/marker.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="63" selection-start="56" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="739" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/rating/rating.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="103" selection-start="4963" selection-end="4963" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/rating/rating.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="200" column="10" selection-start="2992" selection-end="2992" vertical-scroll-proportion="0.0" vertical-offset="2600" max-vertical-offset="3300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/menu/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="53" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="43" selection-start="2697" selection-end="2697" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="46" selection-start="1945" selection-end="1945" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/index/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="17" selection-start="2010" selection-end="2010" vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="4470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="60" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1290" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modules/map/search/search.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="366" selection-end="366" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="227" selection-end="227" vertical-scroll-proportion="0.21208227" vertical-offset="0" max-vertical-offset="778">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

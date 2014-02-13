@@ -3,9 +3,9 @@ function MenuCtrl( $scope ){
     console.log("update menu funtion"  );
     var menu =[];
     function updateMenu(){
-            menu.push({url:"#/user/logout", name:"Logout"});
-            menu.push({url:"#/event/list", name:"Events"});
-            menu.push({url:"#/event/create", name:"Create Event"});
+            menu.push({url:"#/search/", name:"Index"});
+            menu.push({url:"#/map/", name:"Map"});
+            menu.push({url:"#/rating/", name:"Add rating"});
 
 
         $scope.menu = menu ;

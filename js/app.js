@@ -1,12 +1,14 @@
 'use strict';
 
-var app = angular.module('myApp', ['ngRoute', 'kinvey']);
+var app = angular.module('myApp', ['ngRoute', 'google-maps']);
 
     app.config(['$routeProvider', function($routeProvider) {
 
         //event
-        $routeProvider.when('/event/list', {templateUrl: 'js/modules/event/list/list.tpl.html', controller: EventListCtrl});
-        $routeProvider.when('/event/create', {templateUrl: 'js/modules/event/create/create.tpl.html', controller: EventCreateCtrl});
+        $routeProvider.when('/map', {templateUrl: 'js/modules/map/index/map.tpl.html', controller: MapCtrl});
+        $routeProvider.when('/search/', {templateUrl: 'js/modules/map/search/search.tpl.html', controller: SearchCtrl});
+        $routeProvider.when('/rating/', {templateUrl: 'js/modules/rating/rating.tpl.html', controller: RatingCtrl});
+//        $routeProvider.when('/event/create', {templateUrl: 'js/modules/event/create/create.tpl.html', controller: EventCreateCtrl});
 
 
 //        $routeProvider.when('/user', {templateUrl: 'partials/user/list-user.html', modules: ListUserCtrl});
@@ -20,27 +22,31 @@ var app = angular.module('myApp', ['ngRoute', 'kinvey']);
 //        $routeProvider.when('/patient/list/:id', {templateUrl: 'partials/patient/list-patient.html', modules: EditPatientCtrl});
 
         // default route
-        $routeProvider.otherwise({redirectTo: '/event/list'});
+        $routeProvider.otherwise({redirectTo: '/search/'});
     }]);
 
 
-app.run(function($kinvey) {
-    var promise = $kinvey.init({
-        appKey    : 'kid_ee79aci3L5',
-        appSecret : '83f6cb9358004b3fa19e25a400869a16'
-    });
+app.directive('googleplace', function() {
+  return {
+    require: 'ngModel',
+    link: function(scope, element, attrs, model) {
+      var options = {
+        types: [],
+        componentRestrictions: {}
+      };
+      scope.gPlace = new google.maps.places.Autocomplete(element[0], options);
 
-    promise.then(function(){
-        $kinvey.User.login('will', 'audet', {
-            success: function(e) {
-                console.log("success login");
-                console.log(e);
-
-            },
-            error: function(e) {
-
-                console.log(e.description);
-            }
+      google.maps.event.addListener(scope.gPlace, 'place_changed', function() {
+        scope.$apply(function() {
+          model.$setViewValue(element.val());
         });
-    });
+      });
+    }
+  };
 });
+
+app.run(function() {
+
+  Parse.initialize("1dzgxghOZCWNhDwOZWPpIj3mU3bd6DhR64mP8pdL", "79bDHkZPyGATPCLEMJtPTskV09Knuc2zF1ljmMVX");
+});
+

@@ -2,12 +2,12 @@
     <html lang="en" ng-app="myApp">
     <head>
         <meta charset="utf-8">
-        <title>Barpass Admin</title>
+        <title> SWMONTREAL</title>
         <link rel="stylesheet" href="css/app.css"/>
-        <link rel="stylesheet" href="/css/vader/jquery-ui-1.10.2.custom.css"/>
+        <link rel="stylesheet" href="css/vader/jquery-ui-1.10.2.custom.css"/>
         <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/flick/jquery-ui.css"/>
 
-        <link href="lib/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+        <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 
         <script src="js/log.js"></script>
     </head>
@@ -16,10 +16,10 @@
     <div>
 
         <header ng-controller="MenuCtrl">
-            <a href="#" rel="home"><img id="logo" src="images/barpass-full-logo.jpg">
+            <a href="#" rel="home"><img id="logo" src="images/logoheader_ratemyapt.png">
             </a>
 
-            <a ng-click="doTheBack()">back</a>
+            <!--<a ng-click="doTheBack()">back</a>-->
             <ul class="menu" >
                 <li ng-repeat="link in menu"><a href="{{link.url}}"> {{link.name}}</a></li>
             </ul>
@@ -28,21 +28,26 @@
         <div id="content" ng-view>
         </div>
 
-        <!--  Angular-->
-        <script src="lib/angular/angular.js"></script>
+
+      <!--  Angular-->
+        <script src="bower_components/angular/angular.min.js"></script>
         <script src="lib/angular/angular-route.js"></script>
 
+              <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
+      <script src='bower_components/underscore/underscore.js'></script>
+      <script src='bower_components/angular-google-maps/dist/angular-google-maps.min.js'></script>
 
-        <!--Bootstrap-->
+
+      <!--Bootstrap-->
         <script src="lib/bootstrap/ui-bootstrap-tpls-0.3.0.js"></script>
 
 
         <!--Kinvey-->
-        <script src="//da189i1jfloii.cloudfront.net/js/kinvey-angular-1.1.4.min.js"></script>
 
         <script src="js/app.js"></script>
 
-        <script src="js/kinvey/login.js"></script>
+
+      <script src="//www.parsecdn.com/js/parse-1.2.16.min.js"></script>
 
         <!--        <script src="js/services.js"></script>-->
 
@@ -51,8 +56,10 @@
         <script src="js/modules/menu/menu.js"></script>
 
 <!--        attendees-->
-        <script src="js/modules/event/list/list.js"></script>
-        <script src="js/modules/event/create/create.js"></script>
+        <script src="js/modules/map/index/map.js"></script>
+        <script src="js/modules/map/search/search.js"></script>
+        <script src="js/modules/rating/rating.js"></script>
+        <!--<script src="js/modules/event/create/create.js"></script>-->
 
 
  <!--        <!-- user-->

@@ -1,0 +1,133 @@
+<form class="form-horizontal">
+  <fieldset>
+
+    <!-- Form Name -->
+    <legend>Rate Your Appartment</legend>
+
+    <!-- Text input-->
+    <div class="control-group">
+      <label class="control-label" for="address">Adress</label>
+      <div class="controls">
+        <input id="address" ng-model="address" name="address" type="text"  class="input-xlarge">
+
+      </div>
+    </div>
+
+
+
+    <!-- Multiple Radios (inline) -->
+    <div class="control-group">
+      <label class="control-label"  for="radios">How is the location ?</label>
+      <span class="rating">
+        <input type="radio" ng-model="location" class="rating-input"
+               id="location-5" name="location" value="1">
+        <label for="location-5" class="rating-star"></label>
+        <input type="radio" ng-model="location" class="rating-input"
+               id="location-4" name="location" value="2">
+        <label for="location-4" class="rating-star"></label>
+        <input type="radio" ng-model="location" class="rating-input"
+               id="location-3" name="location" value="3">
+        <label for="location-3" class="rating-star"></label>
+        <input type="radio" ng-model="location" class="rating-input"
+               id="location-2" name="location" value="4">
+        <label for="location-2" class="rating-star"></label>
+        <input type="radio" ng-model="location" class="rating-input"
+               id="location-1" name="location" value="5">
+        <label for="location-1" class="rating-star"></label>
+    </span>
+    </div>
+    <input type="radio" ng-model="location" >
+
+    <div class="control-group">
+      <label class="control-label"  for="landlord">How is your landlord ?</label>
+      <span class="rating">
+        <input type="radio" ng-model="landlord" class="rating-input"
+               id="landlord-5" name="landlord" value="1">
+        <label for="landlord-5" class="rating-star"></label>
+        <input type="radio" ng-model="landlord" class="rating-input"
+               id="landlord-4" name="landlord" value="2">
+        <label for="landlord-4" class="rating-star"></label>
+        <input type="radio" ng-model="landlord" class="rating-input"
+               id="landlord-3" name="landlord" value="3">
+        <label for="landlord-3" class="rating-star"></label>
+        <input type="radio" ng-model="landlord" class="rating-input"
+               id="landlord-2" name="landlord" value="4">
+        <label for="landlord-2" class="rating-star"></label>
+        <input type="radio" ng-model="landlord" class="rating-input"
+               id="landlord-1" name="landlord" value="55">
+        <label for="landlord-1" class="rating-star"></label>
+    </span>
+    </div>
+    <div class="control-group">
+      <label class="control-label"  for="building">How is the building ?</label>
+      <span class="rating">
+        <input type="radio" ng-model="building" class="rating-input"
+               id="building-5" name="building" value="1">
+        <label for="building-5" class="rating-star"></label>
+        <input type="radio" ng-model="building" class="rating-input"
+               id="building-4" name="building" value="2">
+        <label for="building-4" class="rating-star"></label>
+        <input type="radio" ng-model="building" class="rating-input"
+               id="building-3" name="building" value="3">
+        <label for="building-3" class="rating-star"></label>
+        <input type="radio" ng-model="building" class="rating-input"
+               id="building-2" name="building" value="4">
+        <label for="building-2" class="rating-star"></label>
+        <input type="radio" ng-model="building" class="rating-input"
+               id="building-1" name="building" value="5">
+        <label for="building-1" class="rating-star"></label>
+    </span>
+    </div>
+    
+    <div class="control-group">
+      <label class="control-label"  for="price">Is the price good?</label>
+      <span class="rating">
+        <input type="radio" ng-model="price" class="rating-input"
+               id="price-5" name="price" value="1">
+        <label for="price-5" class="rating-star"></label>
+        <input type="radio" ng-model="price" class="rating-input"
+               id="price-4" name="price" value="2">
+        <label for="price-4" class="rating-star"></label>
+        <input type="radio" ng-model="price" class="rating-input"
+               id="price-3" name="price" value="3">
+        <label for="price-3" class="rating-star"></label>
+        <input type="radio" ng-model="price" class="rating-input"
+               id="price-2" name="price" value="4">
+        <label for="price-2" class="rating-star"></label>
+        <input type="radio" ng-model="price" class="rating-input"
+               id="price-1" name="price" value="5">
+        <label for="price-1" class="rating-star"></label>
+    </span>
+    </div>    
+    <div class="control-group">
+      <label class="control-label"  for="recommand">Would you recommend your apartment to someone else?</label>
+      <div class="controls">
+        <label class="radio inline" for="recommand-0">
+          <input type="radio" ng-model="recommand" name="recommand" id="recommand-0" value="true" >
+          Yes
+        </label>
+        <label class="radio inline" for="recommand-1">
+          <input type="radio" ng-model="recommand" name="recommand" id="recommand-1" value="false">
+          No
+        </label>
+      </div>
+    </div>
+
+    <!-- Textarea -->
+    <div class="control-group">
+      <label class="control-label" for="comment">Comment</label>
+      <div class="controls">
+        <textarea id="comment" ng-model="comment" name="comment">default text</textarea>
+      </div>
+    </div>
+
+    <!-- Button -->
+    <div class="control-group">
+      <label class="control-label" for="singlebutton"></label>
+      <div class="controls">
+        <button id="singlebutton" ng-click="rate()" name="singlebutton" class="btn btn-success">Send</button>
+      </div>
+    </div>
+
+  </fieldset>
+</form>
