@@ -10,7 +10,7 @@ var j = 0;
 
 
 
-var file = __dirname + '/idLocation.json';
+var file = __dirname + '/idLocation2.json';
 
 var i = 0;
 
